@@ -1,0 +1,1 @@
+select * from `dbt-tutorial.jaffle_shop.customers` order by ID
